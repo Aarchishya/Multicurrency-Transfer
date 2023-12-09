@@ -1,0 +1,13 @@
+.box {
+	height: 100%;
+	width: 100%;
+}
+
+.box .rectangle {
+	background: linear-gradient(-135deg, rgb(64, 22, 100), rgb(188, 120, 236));
+	border-radius: 200px 35px 200px 35px;
+	box-shadow: 1px 4px 4px #00000040;
+	height: 85vh;
+	/* transform: rotate(180deg); */
+	width: 100%;
+}

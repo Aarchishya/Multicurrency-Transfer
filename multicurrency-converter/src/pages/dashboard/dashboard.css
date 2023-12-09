@@ -1,0 +1,52 @@
+.table-row .table-cell {
+	text-align: center !important;
+	border: 0;
+}
+
+.table-row .red-left-border {
+	border-left: 3px solid #f6acb2;
+}
+
+.table-row .red-bottom-border {
+	border-bottom: 3px solid #f6acb2;
+}
+
+.table-row .purple-left-border {
+	border-left: 3px solid #d1aeea;
+}
+
+.table-row .purple-bottom-border {
+	border-bottom: 3px solid #d1aeea;
+}
+
+.table-cell.sender {
+	color: #581e8a;
+}
+
+.table-cell.receiver {
+	color: #c21927;
+}
+
+.table-container {
+	background: linear-gradient(to right, #eadaf6, #f9c8cc);
+	border-radius: 30px;
+}
+
+.table-body-row:nth-child(2n) {
+	background: linear-gradient(to right, #d1aeea, #f0adba);
+}
+
+.accounts-page img {
+	height: 26px;
+}
+
+.deposit-page input,
+.contact-page textarea {
+	background-color: #fff;
+	border-radius: 30px;
+}
+
+.contact-page .MuiInputBase-root {
+	border-radius: 30px;
+	background-color: #fff;
+}
